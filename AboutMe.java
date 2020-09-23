@@ -1,7 +1,7 @@
 /*
- * Programmer:
- * Date:
- * Purpose:
+ * Programmer: Cyntia Merkli
+ * Date: sept 23 2020
+ * Purpose: talk about myself
  */
 
 public class AboutMe {
